@@ -170,6 +170,14 @@ header a {
 }
 
 
+.section-four img {
+    max-height: 280px;
+    max-width: 280px;
+    width: 100%;
+}
+
+
+
 .section-four-text-h3 {
     font-family: 'Sintony';
     font-style: normal;
